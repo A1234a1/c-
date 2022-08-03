@@ -17,6 +17,8 @@ int main()
 	employee arr[5];
 	aceept_data(arr, 5);
 	print_out_the_data(arr, 5);
+	//æÇááå Úáì ßá ÔÆ æßíá 
+
 	
 	return 0;
 }
